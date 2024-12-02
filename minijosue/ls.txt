@@ -1,0 +1,19 @@
+total 56K
+-rw-r--r-- 1 josue josue   25 Nov 26 21:58 archivo.txt
+-rw-r--r-- 1 josue josue    0 Nov 28 11:55 archivostxt.txt
+drwxr-xr-x 2 josue josue 4.0K Nov 14 08:37 carpeta
+drwxr-xr-x 3 josue josue 4.0K Nov 14 12:04 carpetita
+drwxr-xr-x 2 josue josue 4.0K Nov 14 12:24 ejercicios
+-rw-r--r-- 1 josue josue  138 Nov 26 21:23 errores.txt
+-rw-r--r-- 1 josue josue    0 Nov 28 11:56 ls.txt
+drwxr-xr-x 5 josue josue 4.0K Nov 14 13:51 mi_proyecto
+drwxr-xr-x 2 josue josue 4.0K Nov 14 12:24 practica
+drwxr-xr-x 6 josue josue 4.0K Nov 14 14:05 proyecto_web
+-rw-r--r-- 1 josue josue    0 Nov 14 08:22 prueba
+-rw-r--r-- 1 josue josue    0 Nov 14 08:23 prueba1
+drwxr-xr-x 2 josue josue 4.0K Nov 14 13:51 respaldo
+-rw-r--r-- 1 josue josue  162 Nov 26 21:23 salida_y_errores.txt
+drwxr-xr-x 3 josue josue 4.0K Nov 27 21:24 sandbox
+-rw-r--r-- 1 josue josue   18 Nov 11 18:44 testo.txt
+-rw-r--r-- 1 josue josue  551 Nov 26 22:36 vaquita_sabia.txt
+drwxr-xr-x 7 josue josue 4.0K Nov 21 01:10 wildcard_practice
