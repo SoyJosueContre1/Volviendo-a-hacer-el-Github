@@ -1,1 +1,2 @@
 mi primer commmit
+Este es un nuevo texto para probar el stash
